@@ -68,6 +68,14 @@ In the dataset presented through the box plots, outliers are shown as individual
 
 These outliers, particularly in the SUS control group, signify data points that deviate noticeably from the rest of the data.
 
-## 4)
+---
+
+## 4) Is the relationship between the variables linear, exponential, or something else?
+
+The image shows box plots comparing two conditions, "Control" and "Intervention," across five variables: Competency, Autonomy, Presence/Immersion, Intuitive Controls, and SUS. This type of plot does not specifically indicate the nature of the relationship (linear, exponential, etc.) between variables, but rather it shows the distribution and central tendency for each group.
+
+To determine the type of relationship, you'd need more data, such as scatter plots, regression analysis, or other forms of correlation analysis. The box plots are primarily useful for visualizing differences in medians, ranges, and potential outliers within each variable and condition.
+
+---
 
 ## 5)
