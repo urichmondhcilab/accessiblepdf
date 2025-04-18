@@ -174,3 +174,21 @@ Implementing these improvements can make the graph more accessible and easier to
 ![image1](https://github.com/user-attachments/assets/e4d233e5-46aa-4de0-b517-6959fa656558)
 
 ---
+
+## 1) Describe the image and what can be interpreted from it.
+
+The image is a graph showing the relationship between movement time (in seconds) and index of difficulty for three input spaces: Elbow-Plane, Shoulder-Plane, and Elbow-Sphere. Each input space is represented by a different colored line with corresponding data points (red, green, and blue).
+
+Interpretations from the graph:
+
+1. **Positive Correlation**: All input spaces show a positive correlation between movement time and index of difficulty, indicating that as tasks become more difficult, movement time increases.
+
+2. **Linear Trend**: The lines depict a linear trend, represented by linear equations for each input space, with small variances in their slopes and intercepts.
+
+3. **Performance Comparison**:
+   - The Elbow-Plane (red) and Elbow-Sphere (blue) perform very similarly, with slightly faster movement times compared to Shoulder-Plane (green) at higher difficulty levels.
+   - Shoulder-Plane shows a slightly higher intercept, indicating slightly longer initial movement times.
+
+4. **Adjusted R²**: The adjusted R² value is 0.912, suggesting a high degree of fit for the linear model to the data.
+
+Overall, the graph suggests consistent increases in movement time with increased task difficulty across the different input spaces, with Elbow-Plane and Elbow-Sphere being slightly more efficient than Shoulder-Plane.
