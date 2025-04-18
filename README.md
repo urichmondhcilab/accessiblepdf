@@ -1,7 +1,10 @@
 # accessiblepdf
 
 ## How to Use
-1. Add API Key to Line 6 of graph _analyzer.py
+1. Add API Key to Line 6 of graph_analyzer.py
+2. Add image path to Line 9
+3. Add a prompt to Line 35
+4. Run Code
 
 ---
 ![image1](https://github.com/user-attachments/assets/c5eb7d28-3976-48ca-818a-a80dbbeccc27)
