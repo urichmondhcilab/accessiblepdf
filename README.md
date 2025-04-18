@@ -213,3 +213,55 @@ Key trends include:
 4. **Good Fit**: The adjusted R² value of 0.912 indicates a strong fit of the linear models to the data.
 
 In summary, all input spaces show a consistent increase in movement time with increased difficulty, with slight variations in intercepts and slopes.
+
+---
+
+## 3) What outliers, if any, are present in this dataset?
+
+In this dataset, several points appear to be outliers, particularly those scattered farther from the trend lines. Specifically, these are:
+
+1. At an index of difficulty (ID) of 3, a green point (Shoulder-Plane) is noticeably above the other points.
+2. At an ID of 4, another green point is above the main cluster.
+3. At an ID of 5, there are a few green points above the trend line.
+
+These suggest some variance in measurements for the Shoulder-Plane input space specifically.
+
+---
+
+## 4) Is the relationship between the variables linear, exponential, or something else?
+
+The relationship between the variables is linear. This is indicated by the linear equations provided for the three different conditions and the straight lines shown in the graph. Each equation is in the form \(MT = a + b \times IC\), which represents a linear relationship between Movement Time (MT) and Index of Difficulty (IC). The high adjusted \(R^2\) value of 0.912 further supports that a linear model fits the data well.
+
+---
+
+## 5) Based on this trend, what would you expect to happen next?
+
+The graph shows movement time (MT) increasing linearly with the index of difficulty (IC) across different input spaces: Elbow-Plane, Shoulder-Plane, and Elbow-Sphere. The trend lines suggest that as the difficulty increases, the movement time will continue to rise linearly for each input space.
+
+All three input spaces have similar slopes, indicating comparable performance across them as difficulty increases. With an adjusted \( R^2 \) of 0.912, the linear models fit the data well.
+
+I would expect that if the index of difficulty were to increase beyond 5, the movement time would continue to increase linearly in a similar manner for each input space.
+
+---
+
+## 6) What could be improved about this graph’s design?
+
+To improve the graph's design, consider the following enhancements:
+
+1. **Increase Contrast**: Ensure there is a higher contrast between the colors for better visibility, especially for those with color vision deficiencies.
+
+2. **Line Thickness**: Reduce the thickness of the lines slightly to make the overlapping data points clearer.
+
+3. **Data Point Visibility**: Use more distinct shapes or increase the size of data points to differentiate them better from the lines.
+
+4. **Grid Lines**: Lighten grid lines so they don’t distract from the data.
+
+5. **Legend Position**: Move the legend to the bottom to minimize overlap with the graph and make it more readable.
+
+6. **Font Size**: Uniformly increase font size for better readability.
+
+7. **Axis Labels**: Make the axis labels bolder to stand out more against the grid and data points.
+
+8. **Clarity**: Include a brief description or title for context on what the graph represents.
+
+By applying these changes, the graph can become clearer and more effective in communicating the data.
