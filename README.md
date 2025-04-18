@@ -597,6 +597,20 @@ The relationship between the variables appears to be more complex and not strict
 
 ## 5) Based on this trend, what would you expect to happen next?
 
+Based on the trends in the graph, it seems that research in CAVE systems and VR, as well as games research, is becoming more prevalent over time, with clusters forming and new researchers joining these fields. Simulator research is also maintaining steady interest.
+
+Given these trends, I would expect:
+
+1. **Increased Collaboration and Integration**: More interdisciplinary research that merges elements from games, VR, and simulator studies. This might include combining non-interactive media concepts into more interactive platforms.
+
+2. **Growth in VR Research**: The trend lines for CAVE systems and VR research show increasing activity. Expect more innovations and papers in this area.
+
+3. **Development of New Technologies**: As interest in these areas grows, new technological advancements and applications in virtual and augmented reality are likely.
+
+4. **Broader Applications**: Expansion of research applications into new fields such as education, healthcare, and remote work, utilizing games and VR mechanisms.
+
+Overall, the fields appear to be dynamic, with future innovations likely to build on these interactive virtual environments.
+
 ---
 
 ## 6) What could be improved about this graph’s design?
