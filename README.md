@@ -303,7 +303,7 @@ Overall, there does not seem to be any substantial bias or confusion introduced 
 
 ---
 
-9) Is this graph accessible to people with visual impairments or color blindness? What improvements could be made to ensure the data is more inclusive and easier to interpret for all users?
+## 9) Is this graph accessible to people with visual impairments or color blindness? What improvements could be made to ensure the data is more inclusive and easier to interpret for all users?
 
 To make the graph more accessible to people with visual impairments or color blindness, consider the following improvements:
 
