@@ -94,4 +94,24 @@ The box plot indicates several findings from both control and intervention group
 
 ---
 
-## 6)
+## 6) What could be improved about this graph’s design?
+
+Here are some suggestions for improving the graph’s design:
+
+1. **Consistent Y-Axis Scaling**: Ensure that the y-axis scales are consistent across the different categories for easier comparison. Notice how the scales differ for categories on the left and right.
+
+2. **Title and Labels**: Add a title to the graph for context. Also, consider using more descriptive labels for the x-axis and y-axis.
+
+3. **Color Contrast**: Improve the color contrast between the boxes for clearer differentiation, especially for those with color vision deficiencies.
+
+4. **Clarify Asterisks**: The asterisks indicating significance should have a consistent explanation, possibly including a legend or footnote with more detailed information on what they signify.
+
+5. **Spacing and Alignment**: Align the boxes more consistently, and consider improving spacing to avoid confusion, especially where categories are closely placed.
+
+6. **Gridlines**: Use subtle gridlines to help readers track values across the chart without cluttering the visual.
+
+7. **Legend Placement**: Place the legend in a more prominent position to ensure it's easily associated with the graph. 
+
+8. **Descriptors in Legend**: Ensure descriptors like "Control" and "Intervention" are clearly defined in the context of the study for clarity.
+
+Implementing these changes could help improve readability and interpretability.
