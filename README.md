@@ -534,6 +534,89 @@ To ensure this flowchart is accessible for people with visual impairments or col
 
 Implementing these changes can make the chart more inclusive and accessible to a wider audience.
 
+---
+<img width="579" alt="image1" src="https://github.com/user-attachments/assets/efc98444-9776-4a4b-8d54-5989810b775e" />
+---
+## 1) Describe the image and what can be interpreted from it.
+
+The image is a timeline chart showing the progression and interrelation of various research studies from 1975 to 2020. It is divided by a dashed line labeled "interactive virtual divide," suggesting a conceptual separation between different research approaches. The studies are color-coded into four categories:
+
+1. **Non-interactive media studies (Teal):** Includes studies positioned above the divide, indicating a focus on non-interactive media, such as those by Hawkins (1975), Potter (1980), and others.
+
+2. **Games research (Green):** Positioned both above and below the divide, indicating both interactive and non-interactive aspects; for example, Busse & Greenberg (1992) and others extending to 2020.
+
+3. **Simulator research (Yellow):** Among research studies situated below the divide, from Fink & Shriver (1978) to Longford & Dixon and Witmer & Singer (1995), indicating simulator research focus.
+
+4. **CAVE systems and VR research (Green):** Focused on immersive technologies, often situated below the divide, such as Galloway (2004) and advancing towards 2020.
+
+The chart shows the evolution and interrelation of these studies, suggesting how research in different fields has progressed and branched over time, with some overlapping or contributing to others.
+
+---
+
+## 2) Summarize trends in the graph.
+
+The graph presents trends in research areas from 1975 to 2020, categorized into five areas: non-interactive media studies, games research, simulator research, and CAVE systems and VR research.
+
+1. **Non-Interactive Media Studies (Blue)**
+   - Concentrated mainly between 1975 and 2000.
+   - Key contributors: Hawkins, Potter, and Hall.
+
+2. **Games Research (Teal)**
+   - Steady growth starting in the late 1990s.
+   - A notable increase in publications into the 2000s and onwards.
+   - Significant studies by Popova, Lin & Peng, and Rooney et al.
+
+3. **Simulator Research (Yellow)**
+   - Limited data points with key contributions around the early 1980s to 2000.
+   - Notable researchers include Rahman and Andrews et al.
+
+4. **CAVE Systems and VR Research (Green)**
+   - Gained momentum in the 1990s, expanding significantly into the 2000s and beyond.
+   - Major contributions by Slater et al., Gaggioli et al., and Blascovich et al.
+
+Overall, the trends show a gradual shift towards interactive virtual reality systems and VR research over the years, with increasing interdisciplinarity in games research. The "interactive virtual divide" line illustrates the transition from non-interactive to interactive media studies.
+
+---
+
+## 3) What outliers, if any, are present in this dataset?
+
+In this dataset, potential outliers can be identified based on their position relative to the "interactive virtual divide" dashed line. These outliers may be:
+
+1. The "Potter" point in non-interactive media studies (cyan), located significantly below the line in the early '80s.
+2. The "Lonbord & Ditton" point in simulator research (yellow), positioned well above the line around 1995.
+
+These points deviate from the general trend observed in other datasets relative to the interactive divide.
+
+---
+
+## 4) Is the relationship between the variables linear, exponential, or something else?
+
+The relationship between the variables appears to be more complex and not strictly linear or exponential. The graph shows the development of different research areas over time, such as non-interactive media studies, games research, simulator research, and VR research. Each category is represented with a different color, and the progression is not uniform across all areas. There are trends and clusters, but no clear single mathematical relationship like a linear or exponential model fits all the data.
+
+---
+
+## 5) Based on this trend, what would you expect to happen next?
+
+---
+
+## 6) What could be improved about this graph’s design?
+
+---
+
+## 7) Would another chart type be better suited to show this data?
+
+---
+
+## 8) Does the scale or labeling introduce bias or confusion?
+
+---
+
+## 9) Is this graph accessible to people with visual impairments or color blindness? What improvements could be made to ensure the data is more inclusive and easier to interpret for all users?
+
+
+
+---
+
 ## 1) Describe the image and what can be interpreted from it.
 
 ---
@@ -567,5 +650,6 @@ Implementing these changes can make the chart more inclusive and accessible to a
 ---
 
 ## 9) Is this graph accessible to people with visual impairments or color blindness? What improvements could be made to ensure the data is more inclusive and easier to interpret for all users?
+
 
 
