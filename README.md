@@ -36,6 +36,8 @@ Interpretations:
   - No significant differences are observed in competency, autonomy, and presence/immersion between the groups.
   - The data suggests that the intervention might enhance user experience in terms of control intuitiveness and overall usability.
 
+
+
 2) Summarize trends in the graph.
 
   The graph shows comparisons between control and intervention groups across several metrics.
