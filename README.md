@@ -331,3 +331,241 @@ Implementing these changes can significantly enhance readability and accessibili
 
 9. Was hit or miss with the suggestions, often leaving out specific details on how to imporve. For instance, high contrast isn’t necessarily relevant for the graph. Although the recommendation of using different patterns for the lines is a good suggestion. I am not sure how AI is deciphering what is considered “large” enough text. I thought Descriptive Labels wasn’t a very helpful suggestion, and it didn’t make much sense if implemented. Having Alternative Text as a recommendation is a good reminder but there isn’t currently a way for the AI to know if the image has/doesn’t have the Alt text already. Colorblind-Friendly Palette is a good suggestion but it wasn’t specific on which colors the graph should use instead or if the graph’s colors were sufficient enough. Different Shapes and Symbols for the data points is a very good suggestion. 
 
+---
+![image1](https://github.com/user-attachments/assets/ebe72112-3cd4-42b7-b250-734ee770fdde)
+---
+
+## 1) Describe the image and what can be interpreted from it.
+
+The image is a flowchart illustrating the process of selecting research papers for analysis, divided into four main phases: Identification, Screening, Eligibility, and Inclusion.
+
+1. **Identification**:
+   - Papers were gathered from two sources: ACM Digital Library (1,352 papers) and Web of Science (316 papers), totaling 1,668 papers.
+
+2. **Screening**:
+   - From the total, 755 papers were excluded due to reasons like duplication, non-peer review, non-English language, short length, symposium titles, theses/dissertations, and book titles.
+   - This resulted in 913 papers being reviewed by titles, abstracts, and keywords.
+   - 675 papers were further excluded for not fitting the research scope.
+
+3. **Eligibility**:
+   - 238 full-text papers were reviewed.
+   - 154 papers were excluded for not meeting the inclusion criteria.
+
+4. **Inclusion**:
+   - A total of 84 papers were included in the final analysis.
+   - These were categorized into framework concepts: Basic (25), Safety (31), Relationship (26), Self-Esteem (8), and Self-Actualization (4).
+
+This flowchart represents a systematic review method, showing how a large number of initial papers were narrowed down to a few that met specific criteria and categories for in-depth analysis.
+
+---
+
+## 2) Summarize trends in the graph.
+
+The graph represents the process of filtering academic papers for analysis:
+
+1. **Identification**: 
+   - 1,352 papers from ACM Digital Library and 316 from Web of Science, totaling 1,668 papers.
+
+2. **Screening**:
+   - 755 papers excluded due to duplication, non-peer review, language issues, short length, symposium titles, thesis/dissertation, and book titles.
+   - 913 papers remained for title, abstract, and keyword review.
+
+3. **Eligibility**:
+   - 675 papers excluded for not fitting the scope.
+   - 238 papers had their full texts reviewed.
+
+4. **Included**:
+   - 154 papers excluded for failing to meet inclusion criteria.
+   - 84 papers were included in the analysis.
+
+5. **Breakdown by Framework Concepts**:
+   - Basic: 25 papers
+   - Safety: 31 papers
+   - Relationship: 26 papers
+   - Self-Esteem: 8 papers
+   - Self-Actualization: 4 papers
+
+The majority of exclusions occurred during the screening process due to mismatch in scope and initial criteria.
+
+---
+
+## 3) What outliers, if any, are present in this dataset?
+
+To identify potential outliers in this dataset, we need to follow the flow of papers through the stages:
+
+1. **Identification**: 
+   - Total papers returned from both sources = 1,668.
+
+2. **Screening**:
+   - Papers excluded at this stage = 755.
+   - Remaining papers after screening = 913.
+
+3. **Eligibility**:
+   - Papers excluded for not fitting scope = 675.
+   - Full-text reviews conducted on = 238 papers.
+   - Papers excluded for not meeting inclusion criteria = 154.
+
+4. **Included**: 
+   - Papers included in analysis = 84.
+
+### Observations:
+- The exclusion numbers and remaining paper counts appear consistent with expected reductions at each stage.
+- The final breakdown by framework concepts:
+  - Basic = 25
+  - Safety = 31
+  - Relationship = 26
+  - Self-Esteem = 8
+  - Self-Actualization = 4
+
+The dataset itself does not show numerical outliers in the process. Each stage logically reduces from the prior, with no unexpected jumps in the flow. The distribution among framework concepts ranges from 4 to 31, indicating a reasonable spread given the filters applied. There don’t seem to be any statistical outliers presented.
+
+---
+
+## 4) Is the relationship between the variables linear, exponential, or something else?
+
+The image depicts a flowchart of a research paper selection process. It's not about quantitative relationships between variables like linear or exponential growth. Instead, it shows a sequential filtering process: starting with 1,668 papers, reducing through several exclusion steps to 84 papers for analysis. Each step is based on criteria, not mathematical relationships.
+
+---
+
+## 5) Based on this trend, what would you expect to happen next?
+
+The flowchart illustrates a systematic review process for selecting academic papers. Let's break down the steps:
+
+1. **Identification**: Initially, papers are gathered from two sources, ACM Digital Library and Web of Science, totaling 1,668 papers.
+
+2. **Screening**: 
+   - 755 papers are excluded for reasons like duplication, non-peer review status, non-English language, etc., leaving 913 papers.
+   - Titles, abstracts, and author keywords are reviewed, excluding 675 papers not fitting the scope, resulting in 238 papers.
+
+3. **Eligibility**: 
+   - Out of the 238 full texts reviewed, 154 are excluded for not meeting inclusion criteria, leaving 84 papers.
+
+4. **Included**: 
+   - Finally, 84 papers are included in the analysis.
+
+Given this structured process, the next step would likely involve a detailed analysis of the 84 papers, focusing on their findings, methodologies, and contributions. The breakdown by framework concepts suggests categorizing and exploring insights related to these themes. Analysis and synthesis, possibly resulting in reports or further publications, would be expected continuation actions.
+
+---
+
+## 6) What could be improved about this graph’s design?
+
+The graph design could be improved in several ways:
+
+1. **Color Contrast**: Ensure that the color contrast is high enough for better readability. The colors used for rejecting papers are similar, which might not be clear to colorblind users.
+
+2. **Consistency in Alignment**: The alignment of elements within sections could be improved for a cleaner look. Make sure all boxes and arrows are uniformly aligned.
+
+3. **Size and Spacing**: Ensure that all text and elements have consistent size and spacing throughout for a more balanced appearance.
+
+4. **Visual Hierarchy**: Use varying text sizes or styles (e.g., bold) to differentiate between titles, subtitles, and other text to create a clearer visual hierarchy.
+
+5. **Simplicity in Arrows**: Arrows should be simpler and more direct, reducing clutter and making the flow easier to follow.
+
+6. **Text Clarity**: Avoid overly technical terms in the exclusion criteria, if possible, for better accessibility and understanding.
+
+7. **Legend or Key**: Consider adding a legend or key explaining the color scheme and used symbols (if colors have specific meanings).
+
+8. **Accessible Fonts**: Use fonts that are accessible and easy to read, especially for larger sizes.
+
+Implementing these changes can enhance clarity and readability, making the information easier to process.
+
+---
+
+## 7) Would another chart type be better suited to show this data?
+
+The flowchart you provided is well-suited for illustrating the systematic review process, showing how papers were screened and included or excluded at each step. However, if you want to emphasize specific data points, other chart types might complement the flowchart:
+
+1. **Pie Chart or Bar Chart**: To show the percentage breakdown of papers excluded at each screening step, which can provide a quick visual of where most papers were excluded.
+
+2. **Stacked Bar Chart**: To illustrate the breakdown by framework concepts in the included papers. This would highlight proportions and make comparisons easier.
+
+3. **Sankey Diagram**: To represent the flow of papers through the process with a more visual emphasis on the movement from one category to another.
+
+Each of these charts can provide additional insights depending on what aspect of the data you want to highlight.
+
+---
+
+## 8) Does the scale or labeling introduce bias or confusion?
+
+The flowchart appears to be clear and systematic with a well-defined progression through the stages of identification, screening, eligibility, and inclusion. However, here are a few points to consider regarding potential confusion or bias:
+
+1. **Labeling Clarity**:
+   - The labels are generally clear about the exclusion criteria at each step. There doesn't seem to be a bias, but ensuring that all exclusion criteria are precise and comprehensive is important.
+
+2. **Data Sources**:
+   - The labeling of data sources (ACM Digital Library and Web of Science) is clear, but any differences in the criteria used by these databases should be transparent if they influence what gets included or excluded.
+
+3. **Exclusion Reasons**:
+   - The reasons for exclusions (e.g., non-peer-reviewed, short length) are specific, minimizing confusion. However, some might see subjective elements in defining “short length” or “not fitting scope.”
+
+4. **Framework Concepts**:
+   - The breakdown by framework concepts is detailed. However, it's important to ensure these classifications are consistently defined and applied to prevent interpretive bias.
+
+Overall, the flowchart does a good job of minimizing confusion and bias through concise and well-organized presentation.
+
+---
+
+## 9) Is this graph accessible to people with visual impairments or color blindness? What improvements could be made to ensure the data is more inclusive and easier to interpret for all users?
+
+To ensure this flowchart is accessible for people with visual impairments or color blindness, consider the following improvements:
+
+1. **Text Clarity:**
+   - Ensure all text is easily readable with a suitable font size and type.
+   - Provide high contrast between text and background colors.
+
+2. **Color Accessibility:**
+   - Use patterns or textures in addition to colors to differentiate sections.
+   - Ensure colors used are distinguishable by color-blind users (e.g., avoid red-green combinations).
+
+3. **Alternative Text:**
+   - Provide descriptive alt text for the graph explaining the flow and data.
+
+4. **Screen Reader Compatibility:**
+   - Structure the chart so it is navigable using a screen reader. Include logical reading order and descriptions.
+
+5. **Simplify Layout:**
+   - Consider simplifying the design if possible, to avoid unnecessary complexity.
+
+6. **Interactive Features:**
+   - If digital, allow users to click on sections for more detailed, textual data.
+
+7. **Use of Labels:**
+   - Include clear, descriptive labels for each node and decision point.
+
+Implementing these changes can make the chart more inclusive and accessible to a wider audience.
+
+## 1) Describe the image and what can be interpreted from it.
+
+---
+
+## 2) Summarize trends in the graph.
+
+---
+
+## 3) What outliers, if any, are present in this dataset?
+
+---
+
+## 4) Is the relationship between the variables linear, exponential, or something else?
+
+---
+
+## 5) Based on this trend, what would you expect to happen next?
+
+---
+
+## 6) What could be improved about this graph’s design?
+
+---
+
+## 7) Would another chart type be better suited to show this data?
+
+---
+
+## 8) Does the scale or labeling introduce bias or confusion?
+
+---
+
+## 9) Is this graph accessible to people with visual impairments or color blindness? What improvements could be made to ensure the data is more inclusive and easier to interpret for all users?
+
+
