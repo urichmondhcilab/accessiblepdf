@@ -78,4 +78,20 @@ To determine the type of relationship, you'd need more data, such as scatter plo
 
 ---
 
-## 5)
+## 5) Based on this trend, what would you expect to happen next?
+
+The box plot indicates several findings from both control and intervention groups across different metrics:
+
+1. **Competency & Autonomy**: The intervention group shows slightly higher medians compared to the control, but the difference is not statistically significant.
+
+2. **Presence/Immersion**: There's little difference between the groups, suggesting the intervention didn't significantly impact this metric.
+
+3. **Intuitive Controls**: The intervention group shows a significant improvement over the control group, indicated by the asterisk (p < .05).
+
+4. **SUS (System Usability Scale)**: A significant improvement is observed in the intervention group (p < .01).
+
+**Expectation**: If these trends continue, future interventions may further enhance the metrics where significant differences were observed, particularly in intuitive controls and usability. However, less impact might be seen on aspects like presence/immersion without substantial changes in approach.
+
+---
+
+## 6)
