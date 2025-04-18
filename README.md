@@ -29,10 +29,11 @@ Observations:
      - The Intervention group has a higher median compared to the Control group.
      - This measure is marked with a higher level of significance (p < .01), suggesting a highly statistically significant difference.
   
-  ### Interpretations:
+Interpretations:
   
   - The intervention seems to have had a positive effect on intuitive controls and system usability, with statistically significant improvements noted in these areas.
   - No significant differences are observed in competency, autonomy, and presence/immersion between the groups.
   - The data suggests that the intervention might enhance user experience in terms of control intuitiveness and overall usability.
+
 
 2) 
