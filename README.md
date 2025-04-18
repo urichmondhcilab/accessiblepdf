@@ -168,3 +168,9 @@ The graph may present accessibility challenges for people with visual impairment
 6. **Interactive Features**: If possible, consider using interactive graphs where users can hover over elements to get more information.
 
 Implementing these improvements can make the graph more accessible and easier to interpret for all users.
+
+---
+
+![image1](https://github.com/user-attachments/assets/e4d233e5-46aa-4de0-b517-6959fa656558)
+
+---
