@@ -327,7 +327,7 @@ Implementing these changes can significantly enhance readability and accessibili
 
 ## Summary 
 
-8. 1. The AI goes through describing all the labeling, sometimes being more specific than other times. For example with the y-axis it could have included not only the starting point is 1.0 but also that the ending point is 3.0. A good point was made that it is important for the users’s to understand what "Index of difficulty" and "Input Space" are. 
+8. The AI goes through describing all the labeling, sometimes being more specific than other times. For example with the y-axis it could have included not only the starting point is 1.0 but also that the ending point is 3.0. A good point was made that it is important for the users’s to understand what "Index of difficulty" and "Input Space" are. 
 
 9. Was hit or miss with the suggestions, often leaving out specific details on how to imporve. For instance, high contrast isn’t necessarily relevant for the graph. Although the recommendation of using different patterns for the lines is a good suggestion. I am not sure how AI is deciphering what is considered “large” enough text. I thought Descriptive Labels wasn’t a very helpful suggestion, and it didn’t make much sense if implemented. Having Alternative Text as a recommendation is a good reminder but there isn’t currently a way for the AI to know if the image has/doesn’t have the Alt text already. Colorblind-Friendly Palette is a good suggestion but it wasn’t specific on which colors the graph should use instead or if the graph’s colors were sufficient enough. Different Shapes and Symbols for the data points is a very good suggestion. 
 
