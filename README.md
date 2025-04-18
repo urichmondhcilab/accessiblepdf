@@ -537,6 +537,7 @@ Implementing these changes can make the chart more inclusive and accessible to a
 ---
 <img width="579" alt="image1" src="https://github.com/user-attachments/assets/efc98444-9776-4a4b-8d54-5989810b775e" />
 ---
+
 ## 1) Describe the image and what can be interpreted from it.
 
 The image is a timeline chart showing the progression and interrelation of various research studies from 1975 to 2020. It is divided by a dashed line labeled "interactive virtual divide," suggesting a conceptual separation between different research approaches. The studies are color-coded into four categories:
