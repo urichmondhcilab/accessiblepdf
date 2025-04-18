@@ -615,19 +615,85 @@ Overall, the fields appear to be dynamic, with future innovations likely to buil
 
 ## 6) What could be improved about this graph’s design?
 
+This graph's design could be improved in the following ways:
+
+1. **Color Distinction**: Ensure colors are distinct and clearly distinguishable for those with color vision deficiencies. Adding patterns or textures can enhance differentiation.
+
+2. **Label Orientation**: Many labels are diagonally placed, making them hard to read. Consider horizontal or vertical alignment for better readability.
+
+3. **Axis Labels**: Make the axis labels and titles more prominent for clarity. Currently, they are not clearly visible.
+
+4. **Legend**: Include a clear and concise legend on or near the graph to help identify the meaning of colors and numbers without confusion.
+
+5. **Dot Size**: Use consistent dot sizes or make size meaningful (e.g., indicating volume or importance) to avoid visual clutter.
+
+6. **Line Styling**: Dashed lines can be difficult to follow. Consider using solid or more prominent lines for important separations or divisions.
+
+7. **Simplification**: Consider reducing the amount of information or grouping data to avoid overcrowding and improve focus on key elements.
+
+8. **Interactive Elements**: If this graph is digital, consider interactive elements to allow users to hover over points for additional information.
+
+By implementing these improvements, the graph could be more accessible and easier to interpret.
+
 ---
 
 ## 7) Would another chart type be better suited to show this data?
+
+To improve the design of this graph, consider the following suggestions:
+
+1. **Clarity of Lines and Dots**: Increase the thickness or contrast of lines and dots to make them more visible against the background.
+
+2. **Color Contrast**: Ensure that colors used for different categories are distinct and easily distinguishable for colorblind viewers. Utilizing patterns or textures can also help differentiate categories.
+
+3. **Label Orientation**: Rotate text labels horizontally or at a lesser angle to improve readability. If space is limited, consider using interactive elements or a legend for details.
+
+4. **Legend Placement**: Move the legend closer to the graph itself for easy reference. Ensure it’s comprehensive and easily readable.
+
+5. **Axis Labels**: Clearly label the axes, including unit descriptions if applicable. This helps users understand what is being measured.
+
+6. **Simplification**: Reduce the number of overlapping elements or clutter. This can be done by grouping similar items or using dynamic elements in a digital format.
+
+7. **Interactive Elements**: If possible, use interactive features in a digital format to allow users to hover over or click on data points for more information.
+
+These changes can help make the graph more accessible, readable, and user-friendly.
 
 ---
 
 ## 8) Does the scale or labeling introduce bias or confusion?
 
+The graph presents a timeline with multiple research areas differentiated by color, indicating categories like non-interactive media studies, games research, simulator research, and VR research. 
+
+Potential sources of bias or confusion:
+
+1. **Color Coding Confusion**: If viewers are colorblind or the colors are too similar, differentiating between categories might be difficult.
+
+2. **Interactive Virtual Divide**: The dashed line labeled "interactive virtual divide" doesn't have a clear definition in the graph, which can be confusing.
+
+3. **Density and Overlapping Labels**: In areas with many data points or overlapping labels, it can be hard to distinguish individual studies.
+
+4. **Vertical Scale and Positioning**: Although the vertical alignment may suggest some importance or relationship, without clear context, it might be misunderstood.
+
+Without further context or a legend explaining the scale or vertical positioning, the graph might confuse or mislead viewers.
+
 ---
 
 ## 9) Is this graph accessible to people with visual impairments or color blindness? What improvements could be made to ensure the data is more inclusive and easier to interpret for all users?
 
+To make this graph more accessible to people with visual impairments or color blindness, consider the following improvements:
 
+1. **High Contrast Design**: Use high-contrast colors and ensure there is a significant difference between text and background for better readability.
+
+2. **Color-Blind Friendly Palette**: Choose colors that are distinguishable for common types of color blindness (such as red-green). Tools like color blindness simulators can help check effectiveness.
+
+3. **Patterns and Textures**: Incorporate patterns or textures within the circles in addition to colors to differentiate categories.
+
+4. **Labels and Annotations**: Ensure text is large and clear. Use direct labeling on data points rather than relying solely on a legend.
+
+5. **Alternative Text Descriptions**: Provide detailed text descriptions or a data table as an alternative for screen readers.
+
+6. **Interactive Elements**: Use interactive charts where users can hover over points for more information in formats that screen readers can interpret.
+
+Implementing these strategies will help make the graph more inclusive and easier for everyone to interpret.
 
 ---
 
