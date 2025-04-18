@@ -56,7 +56,17 @@ Overall, the intervention appears to improve intuitive controls and usability si
 
 ---
 
-## 3)
+## 3) What outliers, if any, are present in this dataset?
+
+In the dataset presented through the box plots, outliers are shown as individual points beyond the whiskers of the box plots. In this data:
+
+- **Competency:** No outliers are present for either control or intervention.
+- **Autonomy:** No outliers are present for either group.
+- **Presence/Immersion:** No outliers are present for either group.
+- **Intuitive Controls:** No outliers are present for either group.
+- **SUS:** There is an outlier for the control group, appearing below the lower whisker.
+
+These outliers, particularly in the SUS control group, signify data points that deviate noticeably from the rest of the data.
 
 ## 4)
 
