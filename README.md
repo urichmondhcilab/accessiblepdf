@@ -265,3 +265,38 @@ To improve the graph's design, consider the following enhancements:
 8. **Clarity**: Include a brief description or title for context on what the graph represents.
 
 By applying these changes, the graph can become clearer and more effective in communicating the data.
+
+---
+
+## 7) Would another chart type be better suited to show this data?
+
+The given scatter plot with regression lines is appropriate for showing the relationship between movement time and index of difficulty for different input spaces. It effectively illustrates the trends and the differences between the three conditions (Elbow-Plane, Shoulder-Plane, Elbow-Sphere).
+
+If you want to explore alternative visualizations, consider these options depending on your focus:
+
+1. **Line Graph:** If you are more interested in showing the trends across the conditions without the individual data points.
+   
+2. **Bar Chart with Error Bars:** If you have summary statistics (e.g., mean and standard deviation) for each index of difficulty and want to emphasize comparisons more clearly.
+
+3. **Box Plot:** Useful for showing the distribution of data (median, quartiles), especially if there are outliers you want to highlight.
+
+Each option comes with trade-offs, so the best choice depends on what you wish to emphasize in your analysis.
+
+---
+
+## 8) Does the scale or labeling introduce bias or confusion?
+
+The scale and labeling in the graph appear to be clear and consistent. Here are some observations:
+
+1. **Axis Labels:**
+   - The x-axis is labeled as "Index of difficulty" and is clear with values 1 to 5.
+   - The y-axis is labeled as "Movement time (seconds)" with a starting point of 1.0, which is appropriate for the data being presented.
+
+2. **Legend and Lines:**
+   - The legend clearly differentiates between the three input spaces (Elbow-Plane, Shoulder-Plane, Elbow-Sphere) using distinct colors and line styles, which are consistently applied in the graph.
+   - Regression lines with equations are provided for each group, which can help in understanding the trends.
+
+3. **R² Value:**
+   - The adjusted \( R^2 = 0.912 \) is included, indicating a good fit of the model to the data and provides additional context.
+
+Overall, there does not seem to be any substantial bias or confusion introduced by the scale or labeling. However, ensuring that the audience understands what "Index of difficulty" and "Input Space" mean is vital for interpretation.
