@@ -705,6 +705,8 @@ Implementing these strategies will help make the graph more inclusive and easier
 
 ---
 
+# Question Template 
+---
 ## 1) Describe the image and what can be interpreted from it.
 
 ---
