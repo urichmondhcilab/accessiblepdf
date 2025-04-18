@@ -115,3 +115,56 @@ Here are some suggestions for improving the graph’s design:
 8. **Descriptors in Legend**: Ensure descriptors like "Control" and "Intervention" are clearly defined in the context of the study for clarity.
 
 Implementing these changes could help improve readability and interpretability.
+
+---
+
+## 7) Would another chart type be better suited to show this data?
+
+The box plot you provided is a good choice for showing distributions, medians, and variability across different categories. However, if you want to emphasize different aspects of the data, consider these options:
+
+1. **Bar Chart**: If you're interested in highlighting average values between groups, a bar chart could be suitable. It’s less effective for showing variability.
+
+2. **Violin Plot**: This could be useful to show the distribution shape of the data along with the range and medians, combining the benefits of box plots and density plots.
+
+3. **Dot Plot**: Displays individual data points and can be useful for smaller data sets by showing all observations and their distribution.
+
+Ultimately, the choice depends on what aspect of the data you want to emphasize. If highlighting median, spread, and presence of outliers is important, the box plot remains highly effective.
+
+---
+
+## 8) Does the scale or labeling introduce bias or confusion?
+
+The image shows a set of box plots comparing control and intervention groups across five categories. Here’s an analysis of potential bias or confusion:
+
+1. **Scale:**
+   - The first four categories use a scale from 1 to 7, whereas the SUS (System Usability Scale) uses a scale from 0 to 100. This might be confusing if viewers are not familiar with the SUS typically using a different scale.
+   - The difference in scales could cause misinterpretation if not clearly explained, as the interpretation of median and range values could vary significantly between scales.
+
+2. **Labeling:**
+   - Some categories are marked with an asterisk (*) indicating statistical significance (*p < .05 for "Intuitive Controls" and *p < .01 for "SUS"). This is useful, but viewers must know what the asterisk signifies to fully understand its importance.
+   - The use of different shading for "Control" and "Intervention" groups is helpful for distinction, although some viewers may find it unclear without proper color differentiation if viewed in black and white or by individuals with color vision deficiencies.
+
+To improve clarity:
+- Ensure that viewers understand the scale differences through a legend or caption.
+- Clarify what the asterisks mean with a note explaining the significance.
+- Consider using distinct patterns or borders to differentiate groups for better accessibility.
+
+---
+
+## 9) Is this graph accessible to people with visual impairments or color blindness? What improvements could be made to ensure the data is more inclusive and easier to interpret for all users?
+
+The graph may present accessibility challenges for people with visual impairments or color blindness. Here are a few ways to make it more inclusive:
+
+1. **High Contrast Colors**: Use high-contrast colors between the boxes for better visibility. Avoid relying solely on color to differentiate groups; instead, use patterns or textures.
+
+2. **Labels and Annotations**: Ensure that all important data points are well-labeled. Adding direct annotations or data labels within or near the boxes can provide clarity.
+
+3. **Alternative Text**: Provide descriptive alternative text or a caption that conveys the key information and findings of the graph.
+
+4. **Legend Improvements**: If using colors, ensure that they are distinct even for those with color vision deficiencies. Consider using patterns as well as colors in the legend.
+
+5. **Text Size and Font**: Use larger and more readable fonts for all labels, tick marks, and legends to help those with visual impairments.
+
+6. **Interactive Features**: If possible, consider using interactive graphs where users can hover over elements to get more information.
+
+Implementing these improvements can make the graph more accessible and easier to interpret for all users.
