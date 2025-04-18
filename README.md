@@ -300,3 +300,7 @@ The scale and labeling in the graph appear to be clear and consistent. Here are 
    - The adjusted \( R^2 = 0.912 \) is included, indicating a good fit of the model to the data and provides additional context.
 
 Overall, there does not seem to be any substantial bias or confusion introduced by the scale or labeling. However, ensuring that the audience understands what "Index of difficulty" and "Input Space" mean is vital for interpretation.
+
+---
+
+Summary 
