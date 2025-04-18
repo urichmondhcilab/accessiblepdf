@@ -3,6 +3,8 @@
 ![image1](https://github.com/user-attachments/assets/c5eb7d28-3976-48ca-818a-a80dbbeccc27)
 
 1) Describe the image and what can be interpreted from it.
+
+
 The image features a series of box plots comparing two groups, labeled "Control" (light gray) and "Intervention" (dark gray), across five measures: Competency, Autonomy, Presence/Immersion, Intuitive Controls, and SUS (System Usability Scale).
   
 Observations:
