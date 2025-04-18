@@ -37,19 +37,20 @@ Interpretations:
   - The data suggests that the intervention might enhance user experience in terms of control intuitiveness and overall usability.
 
 2) Summarize trends in the graph.
-The graph shows comparisons between control and intervention groups across several metrics.
 
-1. **Competency**: Both groups have similar median scores, with slightly higher values for the intervention group.
-
-2. **Autonomy**: There is little difference between the groups, with similar median values.
-
-3. **Presence/Immersion**: The scores are almost identical between the groups.
-
-4. **Intuitive Controls**: The intervention group has a higher median score compared to the control group, indicating a significant difference (p < .05).
-
-5. **SUS (System Usability Scale)**: The intervention group also shows higher usability scores with significant difference (p < .01).
-
-Overall, the intervention appears to improve intuitive controls and usability significantly.
+  The graph shows comparisons between control and intervention groups across several metrics.
+  
+  1. **Competency**: Both groups have similar median scores, with slightly higher values for the intervention group.
+  
+  2. **Autonomy**: There is little difference between the groups, with similar median values.
+  
+  3. **Presence/Immersion**: The scores are almost identical between the groups.
+  
+  4. **Intuitive Controls**: The intervention group has a higher median score compared to the control group, indicating a significant difference (p < .05).
+  
+  5. **SUS (System Usability Scale)**: The intervention group also shows higher usability scores with significant difference (p < .01).
+  
+  Overall, the intervention appears to improve intuitive controls and usability significantly.
 
 3) 
 4) 
