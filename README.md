@@ -192,3 +192,24 @@ Interpretations from the graph:
 4. **Adjusted R²**: The adjusted R² value is 0.912, suggesting a high degree of fit for the linear model to the data.
 
 Overall, the graph suggests consistent increases in movement time with increased task difficulty across the different input spaces, with Elbow-Plane and Elbow-Sphere being slightly more efficient than Shoulder-Plane.
+
+---
+
+## 2) Summarize trends in the graph.
+
+The graph shows the relationship between movement time and index of difficulty across three input spaces: Elbow-Plane, Shoulder-Plane, and Elbow-Sphere. 
+
+Key trends include:
+
+1. **Linear Increase**: Movement time increases linearly with the index of difficulty for all three input spaces.
+
+2. **Similar Patterns**: The Elbow-Plane and Elbow-Sphere have very similar slopes, indicating a similar rate of increase in movement time as difficulty increases. The Shoulder-Plane has a slightly lower slope.
+
+3. **Intercepts and Slopes**:
+   - **Elbow-Plane**: \(MT = 0.756 + 0.389 \times IC\)
+   - **Shoulder-Plane**: \(MT = 0.830 + 0.379 \times IC\)
+   - **Elbow-Sphere**: \(MT = 0.768 + 0.405 \times IC\)
+
+4. **Good Fit**: The adjusted R² value of 0.912 indicates a strong fit of the linear models to the data.
+
+In summary, all input spaces show a consistent increase in movement time with increased difficulty, with slight variations in intercepts and slopes.
